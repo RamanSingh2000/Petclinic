@@ -189,25 +189,15 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- Logging with SLF4J & LogBack -->
+        Logging with SLF4J & LogBack -->
 <!--         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>${slf4j.version}</version>
                  
-        </dependency> -->
+        </dependency>
 
- <dependency>
-    <groupId>example.group</groupId>
-    <artifactId>example-artifact</artifactId>
-    <version>example-version</version>
-    <exclusions>
-        <exclusion>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-        </exclusion>
-    </exclusions>
-</dependency>
+
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
