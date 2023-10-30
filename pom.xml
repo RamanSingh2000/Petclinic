@@ -6,11 +6,7 @@
     <artifactId>spring-framework-petclinic</artifactId>
     <version>5.3.13</version>
 
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>owasp</groupId>
-    <artifactId>dependency-check</artifactId>
-    <version>99.0.0.0.0</version>
-    <name>OWASP_Dependency_Check</name>
+    
 
          
     <name>Spring Framework Petclinic</name>
