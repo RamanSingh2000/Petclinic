@@ -289,6 +289,12 @@
             <version>${javax-activation.version}</version>
         </dependency>
 
+       <dependency>
+        <groupId>org.owasp</groupId>
+        <artifactId>dependency-check-maven</artifactId>
+        <version>5.0.0</version>
+        <scope>test</scope>
+      </dependency>
     </dependencies>
 
     <!-- Maven plugin versions are mentioned in order to guarantee the build reproducibility in the long term -->
