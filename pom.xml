@@ -299,7 +299,7 @@
        <dependency>
         <groupId>org.owasp</groupId>
         <artifactId>dependency-check-maven</artifactId>
-        <version>5.0.0</version>
+        <version>8.4.2</version>
         <scope>test</scope>
       </dependency>
     </dependencies>
